@@ -181,3 +181,7 @@
 *://*.pisola.jp/*
 *://*.yakiniku-king.jp/*
 *://*.yonehachi.co.jp/*
+*://*.roks.co.jp/*
+*://*.sagami.co.jp/*
+*://*.sagami-holdings.co.jp/*
+*://*.hama-sushi.co.jp/*
