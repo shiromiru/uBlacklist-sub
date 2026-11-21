@@ -185,3 +185,4 @@
 *://*.sagami.co.jp/*
 *://*.sagami-holdings.co.jp/*
 *://*.hama-sushi.co.jp/*
+*://*.komeda.co.jp/*
