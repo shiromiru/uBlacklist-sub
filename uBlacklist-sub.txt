@@ -178,4 +178,6 @@
 *://*.seeing-japan.com/*
 *://*.hotpepper.jp/*
 *://*.gnavi.co.jp/*
-
+*://*.pisola.jp/*
+*://*.yakiniku-king.jp/*
+*://*.yonehachi.co.jp/*
